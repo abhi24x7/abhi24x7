@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @abhi24x7
-- 👀 I’m interested in AI & ML
+- 👋 Hi, I’m Abhishek Chaudhary
+- 👀 I’m interested in learning and applying Machine Learning.
 - 🌱 I’m currently learning to Apply AI in Chemical Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
